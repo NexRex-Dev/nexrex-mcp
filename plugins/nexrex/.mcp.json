@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nexrex": {
+      "type": "http",
+      "url": "https://mcp.nexrex.ai/mcp"
+    }
+  }
+}

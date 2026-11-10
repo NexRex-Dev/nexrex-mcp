@@ -1,0 +1,19 @@
+{
+  "name": "nexrex",
+  "owner": {
+    "name": "NexRex Inc.",
+    "email": "support@nexrex.ai",
+    "url": "https://nexrex.ai"
+  },
+  "metadata": {
+    "description": "NexRex running training and coaching for your assistant."
+  },
+  "plugins": [
+    {
+      "name": "nexrex",
+      "source": "./plugins/nexrex",
+      "description": "Running training and coaching: activities, plans, recovery, rosters and plan drafts.",
+      "version": "3.0.1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "nexrex",
+  "version": "3.0.1",
+  "description": "Running training and coaching: activities, plans, recovery, rosters and plan drafts.",
+  "author": {
+    "name": "NexRex Inc.",
+    "email": "support@nexrex.ai",
+    "url": "https://nexrex.ai"
+  },
+  "homepage": "https://docs.nexrex.ai/api-reference/mcp-server",
+  "keywords": [
+    "running",
+    "training",
+    "coaching",
+    "fitness"
+  ],
+  "mcpServers": "./.mcp.json",
+  "icon": "./assets/nexrex.png"
+}
